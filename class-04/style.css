@@ -1,0 +1,16 @@
+.style1 {
+    color: red;
+    background-color: green;
+    font-size: 6rem;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.style2 {
+    color: crimson;
+    background-color: black;
+    font-size: 6rem;
+    font-weight: 900;
+    text-transform: capitalize;
+}
